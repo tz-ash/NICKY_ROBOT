@@ -20,7 +20,7 @@ All that is needed is that your .py file is in the modules folder.
 
 To add commands, make sure to import the dispatcher via
 
-from AsunaRobot import dispatcher.
+from ShasaBotbot import dispatcher.
 
 You can then add commands using the usual
 
